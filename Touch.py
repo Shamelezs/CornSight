@@ -125,7 +125,7 @@ with tab2:
             st.markdown(
                 f"""
                 <div style="width: 
-                {metric['value']}%; height: 15px; background-color: {metric['color']}; border-radius: 10px;">
+                {metric['value']}%; height: 20px; background-color: {metric['color']}; border-radius: 10px;">
                 </div>
                 """,
             unsafe_allow_html=True
