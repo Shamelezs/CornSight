@@ -154,9 +154,9 @@ with tab3:
     st.subheader("DroneBased")
     # Data
     metrics = [
-         {"name": "mAP", "value": 45.5, "color": "#A855F7"},
-        {"name": "Precision", "value": 64.8, "color": "#3B82F6"},
-        {"name": "Recall", "value": 47.2, "color": "#F59E0B"}
+         {"name": "mAP", "value": 55.1, "color": "#A855F7"},
+        {"name": "Precision", "value": 70.9, "color": "#3B82F6"},
+        {"name": "Recall", "value": 52.8, "color": "#F59E0B"}
     ]
 
     # Display metrics with values properly aligned next to the graph
