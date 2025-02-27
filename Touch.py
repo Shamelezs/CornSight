@@ -112,11 +112,11 @@ with tab2:
         .handheld-title {
             font-size: 30px;
             font-weight: bold;
-            color: #A855F7;
+            color:rgb(255, 255, 255);
         }
         .handheld-metric {
             font-size: 20px;
-            color: #3B82F6;
+            color:rgb(255, 255, 255);
         }
     </style>
     """,
@@ -178,11 +178,11 @@ with tab3:
         .drone-title {
             font-size: 30px;
             font-weight: bold;
-            color: #F59E0B;
+            color:rgb(255, 255, 255);
         }
         .drone-metric {
             font-size: 20px;
-            color: #3B82F6;
+            color:rgb(255, 255, 255);
         }
     </style>
     """,
