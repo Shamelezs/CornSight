@@ -9,7 +9,7 @@ API_KEY_1 = "NAGugbciLHsoK9sRrffV"  # API Key for Model 1 (HandHeld)
 MODEL_1_ID = "corn-grayleafspot2/22"
 
 API_KEY_2 = "7btX2iOoSgHFPVC73CUJ"  # API Key for Model 2 (Drone Based)
-MODEL_2_ID = "testing-cmpv3/1"
+MODEL_2_ID = "system-80-here/1"
 
 # Streamlit UI
 st.set_page_config(page_title="Corn Sight System", page_icon=":corn:", layout="wide")
