@@ -5,11 +5,11 @@ import numpy as np
 from PIL import Image
 
 # Constants for Two Models (Each with a Different API Key)
-API_KEY_1 = "NAGugbciLHsoK9sRrffV"  # API Key for Model 1 (HandHeld)
-MODEL_1_ID = "corn-grayleafspot2/22"
+API_KEY_1 = "yE8xGGzT790o1TRqn8cv"  # API Key for Model 1 (HandHeld)
+MODEL_1_ID = "allhandheld/1"
 
-API_KEY_2 = "7btX2iOoSgHFPVC73CUJ"  # API Key for Model 2 (Drone Based)
-MODEL_2_ID = "system-80-here/1"
+API_KEY_2 = "uLIL7q8lfV0g8P6fq1Sa"  # API Key for Model 2 (Drone Based)
+MODEL_2_ID = "all-byv03/1"
 
 # Streamlit UI
 st.set_page_config(page_title="Corn Sight System", page_icon=":corn:", layout="wide")
