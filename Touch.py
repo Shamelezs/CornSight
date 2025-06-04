@@ -116,7 +116,7 @@ with tab2:
         }
         .handheld-metric {
             font-size: 20px;
-            color:rgb(255, 255, 255);
+            color:currentColor;
         }
     </style>
     """,
@@ -182,7 +182,7 @@ with tab3:
         }
         .drone-metric {
             font-size: 20px;
-            color:rgb(255, 255, 255);
+            color:currentColor;
         }
     </style>
     """,
