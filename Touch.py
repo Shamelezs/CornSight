@@ -236,7 +236,7 @@ with tab3:
 # Tab 4 >> About 
 with tab4:
     st.subheader("About")
-    st.image(image="tarp11.jpg", use_container_width=True)
+    st.image(image="TARP11.pdf", use_container_width=True)
     st.markdown(
     """
     <div style="text-align: center; font-size: 20px; font-weight: normal;">
