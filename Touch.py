@@ -237,11 +237,3 @@ with tab3:
 with tab4:
     st.subheader("About")
     st.image(image="TARP11_page-0001.jpg", use_container_width=True)
-    st.markdown(
-    """
-    <div style="text-align: center; font-size: 20px; font-weight: normal;">
-        Poster
-    </div>
-    """,
-    unsafe_allow_html=True
-    )
